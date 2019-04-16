@@ -1,0 +1,15 @@
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\LINQPractice.exe.config
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\LINQPractice.exe
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\LINQPractice.pdb
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\EntityFramework.dll
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\EntityFramework.xml
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.csproj.CopyComplete
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.exe
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.pdb
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.Migrations.initialmigration.resources
+C:\Users\ШадикьянР\source\repos\LINQPractice\LINQPractice\obj\Debug\LINQPractice.csproj.GenerateResource.cache
